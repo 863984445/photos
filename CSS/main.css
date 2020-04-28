@@ -1,0 +1,74 @@
+*{margin:0;
+padding: 0;}
+body{font-size: 20px;
+font-weight: 520;
+font-family: "arial black";
+background-image: url(../image/创意太空星座标志无缝背景矢量图.jpg);
+
+}
+
+#container{position: relative;
+width: 1200px;
+margin: 0 auto;
+clear: none;
+}
+#header{height: 50px;
+border-radius: 10px;
+background-image: url(../image/footer%20and%20header.jpg);
+margin-top: 10px;
+border: #000000;
+border-style: solid;
+text-align: center;
+font-size: 30px;
+}
+#main{height: 600px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+#aside{width: 200px;
+height: 600px;
+background-image:url(../image/可爱打高尔夫的太阳矢量素材.jpg);
+float: left;
+border-style: solid;
+text-align: center;
+}
+ul{list-style: none;}
+li{line-height: 100px;}
+#aside a{text-decoration: none;}
+#aside a:link, #aside a:visited
+{
+font-weight:bold;
+color:#FFFFFF;
+background-color:black;
+text-align:center;
+padding-left:25px;
+padding-right:25px ;
+margin: 10px;
+text-decoration:none;
+text-transform:uppercase;
+}
+#aside a:hover,#aside a:active{
+background-color:gray;
+} 
+
+#content{width: 790px;
+height: 600px;
+background-image: url(../image/可爱打高尔夫的太阳矢量素材.jpg);
+float: left;
+border-style: solid;
+border-color: #000000;
+}
+#content iframe{position:relative;
+top: 1.5%;
+left:2.2%;}
+#footer{height: 30px;
+background-image: url(../image/footer%20and%20header.jpg);
+border-radius: 10px;
+border: #000000;
+border-style: solid;
+}
+iframe{background: url(../image/可爱打高尔夫的太阳矢量素材.jpg);
+position: relative;
+top:3px}
+#content iframe{background: url(../image/可爱打高尔夫的太阳矢量素材.jpg)center}
+
